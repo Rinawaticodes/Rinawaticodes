@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Welcome to my page!<br>👋 I'm Rina, Fullstack developer  junior living in Reims, France. <br>
 
-- 🌱 I’m currently learning ReactJs advanced, NodeJs, Express for create MERN projet<br>
+- 🌱 I’m currently learning ReactJs advanced, NodeJs, Typescript, and Postgre, Express for create MERN projet<br>
 - 💬 Ask me about ReactJs, CSS, Javascript<br>
 - 📫 How to reach me wati.rhina90@gmail.com<br>
 
